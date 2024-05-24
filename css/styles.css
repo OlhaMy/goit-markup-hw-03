@@ -350,9 +350,9 @@ img {
     background-color: #2e2f42;
 }
 
-.boden .container .logo {
+.boden .container .logo{
     display: inline-block;
-    margin-bottom: 24px;
+    margin-bottom: 16px;
 }
 
 .boden .logo-text {
