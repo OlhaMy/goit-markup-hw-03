@@ -41,6 +41,7 @@ img {
 .container {
     width: 1158px;
     margin: 0 auto;
+    padding: 0 15px
 }
 /*_____________________________________________________Header___________________________________________________________________*/
 
@@ -57,6 +58,7 @@ img {
 
 .container .navigation {
     display: flex;
+    align-items: center; 
     margin-right: auto;
 }
 
