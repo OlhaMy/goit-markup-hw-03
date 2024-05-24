@@ -41,7 +41,7 @@ img {
 .container {
     width: 1158px;
     margin: 0 auto;
-    padding: 0 15px
+    padding: 0 15px;
 }
 /*_____________________________________________________Header___________________________________________________________________*/
 
@@ -52,13 +52,12 @@ img {
 .header .container {
     display: flex; 
     align-items: center;
-    padding: 24px 0;
-
 }
 
 .container .navigation {
     display: flex;
-    align-items: center; 
+    padding: 24px 0;
+    align-items: baseline; 
     margin-right: auto;
 }
 
@@ -68,7 +67,7 @@ img {
 }
 
 .navigation .logo {
-    display: block;
+    display: inline-block;
     margin-right: 76px;
 
     font-family: "Raleway", sans-serif;
