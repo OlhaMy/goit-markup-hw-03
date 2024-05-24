@@ -63,11 +63,13 @@ img {
 }
 
 .navigation .title {
-    padding: 24px 0;
     display: flex;
     gap: 40px;
+    padding: 24px 0;
 }
-
+.title .link {
+    padding: 24px 0;
+}
 .navigation .logo {
     display: block;
     margin-right: 76px;
